@@ -2,7 +2,9 @@
 st
 st.c
 st.o
+st.h
 x.o
+x.c
 
 *.rej
 *.orig
