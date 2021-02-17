@@ -1,0 +1,9 @@
+# ignore
+st
+st.c
+st.o
+x.o
+
+*.rej
+*.orig
+config.def.h
