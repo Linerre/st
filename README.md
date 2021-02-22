@@ -3,6 +3,10 @@ st - simple terminal
 st is a simple terminal emulator for X which sucks less.
 
 
+Note
+------------
+My build of st for Arch Linux. Used patches are in `patches/done/` directory.
+
 Requirements
 ------------
 In order to build st you need the Xlib header files.
