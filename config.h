@@ -8,9 +8,10 @@
 static char *font = "FiraCode Nerd Font Mono:style=Medium:pixelsize=20:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"Hack Nerd Font Mono:pixelsize=20:antialias=true:autohint=true",
+	"FiraCode Nerd Font Mono:style=Medium:pixelsize=20:antialias=true:autohint=true",
 	"Inconsolata Nerd Font Mono:style=Medium:pixelsize=20:antilias=true;autohint=true",
 	"Liberation Mono:pixelsize=24:antialias=true:autohint=true",
+	"Hack Nerd Font Mono:pixelsize=20:antialias=true:autohint=true"
 };
 
 static int borderpx = 2;
