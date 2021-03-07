@@ -5,13 +5,11 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "FiraCode Nerd Font Mono:style=Medium:pixelsize=20:antialias=true:autohint=true";
+static char *font = "FuraCode Nerd Font Mono:style=Medium:pixelsize=20:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-	"FiraCode Nerd Font Mono:style=Medium:pixelsize=20:antialias=true:autohint=true",
-	"Inconsolata Nerd Font Mono:style=Medium:pixelsize=20:antilias=true;autohint=true",
+	"InconsolataLGC Nerd Font Mono:style=Medium:pixelsize=20:antilias=true;autohint=true",
 	"Liberation Mono:pixelsize=24:antialias=true:autohint=true",
-	"Hack Nerd Font Mono:pixelsize=20:antialias=true:autohint=true"
 };
 
 static int borderpx = 2;
