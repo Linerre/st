@@ -5,7 +5,9 @@ st is a simple terminal emulator for X which sucks less.
 
 Note
 ------------
-My build of st for Arch Linux. Used patches are in `patches/done/` directory.
+My build of st for **FreeBSD**. Used patches are in `patches/done/` directory.
+
+TODO: Devicons not working with Ranger file manager. Trying to figure this out ...
 
 Requirements
 ------------
