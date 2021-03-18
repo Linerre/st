@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 /* static char *font = "Terminus:style=Bold:pixelsize=28"; */
-static char *font = "RobotoMono Nerd Font:style=Light:pixelsize=26";
+static char *font = "RobotoMono Nerd Font:style=Regular:pixelsize=26";
 
 /* Spare fonts */
 static char *font2[] = {
