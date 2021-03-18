@@ -1,5 +1,6 @@
 # ignore
 st
+x.o
 
 *.rej
 *.orig
