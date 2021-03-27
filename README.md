@@ -16,6 +16,11 @@ In order to build st you need the Xlib header files.
 On Void and FreeBSD you might need to install some required pkgs before building.
 See this [README](https://github.com/Linerre/dwm/blob/arch/README.md)
 
+Also, to build st on FreeBSD, you need to install `ncurses`:
+
+	# pkg install ncurses
+
+`ncurses` contains the `tic` program. 
 
 Installation
 ------------
