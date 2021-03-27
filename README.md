@@ -5,11 +5,16 @@ st is a simple terminal emulator for X which sucks less.
 
 Note
 ------------
-My build of st for Arch Linux. Used patches are in `patches/done/` directory.
+My build of st for Arch Linux, Void Linux, Gentoo Linux, FreeBSD, and OpenBSD. 
+
+Used patches are in `patches/done/` directory.
 
 Requirements
 ------------
 In order to build st you need the Xlib header files.
+
+On Void and FreeBSD you might need to install some required pkgs before building.
+See this [README](https://github.com/Linerre/dwm/blob/arch/README.md)
 
 
 Installation
