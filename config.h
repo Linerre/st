@@ -178,8 +178,8 @@ static unsigned int defaultcs = 256;
 unsigned int defaultfg = 0;
 unsigned int defaultbg = 15;
 
-static unsigned int defaultcs = 15;
-static unsigned int defaultrcs = 257;
+static unsigned int defaultcs = 0;
+static unsigned int defaultrcs = 15;
 
 /*
  * Default shape of cursor
