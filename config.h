@@ -6,18 +6,17 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 /* static char *font = "Terminus:style=Bold:pixelsize=28"; */
-static char *font = "Liberation Mono:pixelsize=24:antialias=true:autohint=true";
+static char *font = "Liberation Mono:style=Regular:pixelsize=24:antialias=true:autohint=true";
 
 /* Spare fonts */
 static char *font2[] = {
-  "AverageMono:pixelsize=26",
-  "Courier New:pixelsize=26",
-  "Anonymous Pro Minus:pixelsize=24",
-  "Anonymous Pro:style=Bold:pixelsize=24",
-  "FiraCode Nerd Font Mono:style=Medium:pixelsize=22:antialias=true:autohint=true",
-  "Inconsolata Nerd Font:style=Regular:pixelsize=22:antilias=true;autohint=true",
+  /*"Courier New:pixelsize=26",*/
+  /*"Droid Sans Mono:style=Regular:pixelsize=24:antialias=true:autohint=true",*/
+  /*"FiraCode Nerd Font Mono:style=Medium:pixelsize=22:antialias=true:autohint=true",*/
+  /*"Inconsolata Nerd Font:style=Regular:pixelsize=22:antilias=true;autohint=true",*/
+  "Liberation Mono:style=Regular:pixelsize=24:antialias=true:autohint=true",
   "RobotoMono Nerd Font:style=Regular:pixelsize=26",
-  "Terminus:style=Bold:pixelsize=28",
+  /*"Terminus:style=Bold:pixelsize=28",*/
 };
 
 static int borderpx = 6;
