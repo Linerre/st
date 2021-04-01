@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 /* static char *font = "Terminus:style=Bold:pixelsize=28"; */
-static char *font = "Inconsolata Nerd Font:style=Regular:pixelsize=26:antilias=true;autohint=true";
+static char *font = "Liberation Mono:pixelsize=24:antialias=true:autohint=true";
 
 /* Spare fonts */
 static char *font2[] = {
@@ -16,7 +16,6 @@ static char *font2[] = {
   "Anonymous Pro:style=Bold:pixelsize=24",
   "FiraCode Nerd Font Mono:style=Medium:pixelsize=22:antialias=true:autohint=true",
   "Inconsolata Nerd Font:style=Regular:pixelsize=22:antilias=true;autohint=true",
-  "Liberation Mono:pixelsize=24:antialias=true:autohint=true",
   "RobotoMono Nerd Font:style=Regular:pixelsize=26",
   "Terminus:style=Bold:pixelsize=28",
 };
