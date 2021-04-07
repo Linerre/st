@@ -6,10 +6,11 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 /* static char *font = "Terminus:style=Bold:pixelsize=28"; */
-static char *font = "Liberation Mono:style=Regular:pixelsize=24:antialias=true:autohint=true";
+static char *font = "Consolas:style=Regular:pixelsize=24:antialias=true:autohint=true";
 
 /* Spare fonts */
 static char *font2[] = {
+  "Consolas:style=Regular:pixelsize=24:antialias=true:autohint=true",
   /*"Courier New:pixelsize=26",*/
   /*"Droid Sans Mono:style=Regular:pixelsize=24:antialias=true:autohint=true",*/
   /*"FiraCode Nerd Font Mono:style=Medium:pixelsize=22:antialias=true:autohint=true",*/
