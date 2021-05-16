@@ -12,7 +12,7 @@ static char *font = "Consolas:style=Regular:pixelsize=24:antialias=true:autohint
 static char *font2[] = {
   "Consolas:style=Regular:pixelsize=24:antialias=true:autohint=true",
   /*"Courier New:pixelsize=26",*/
-  /*"Droid Sans Mono:style=Regular:pixelsize=24:antialias=true:autohint=true",*/
+  "Droid Sans Mono:style=Regular:pixelsize=24:antialias=true:autohint=true",
   /*"FiraCode Nerd Font Mono:style=Medium:pixelsize=22:antialias=true:autohint=true",*/
   /*"Inconsolata Nerd Font:style=Regular:pixelsize=22:antilias=true;autohint=true",*/
   "Liberation Mono:style=Regular:pixelsize=24:antialias=true:autohint=true",
